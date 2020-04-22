@@ -6,7 +6,7 @@
 
 body {
     font-family: 'Roboto', sans-serif;
-    background: #010101 url('/image/main-bg.jpg') top left 150% no-repeat;
+    background: #010101 url('https://github.com/AndrewKolodkin/Starwars/blob/master/image/main-bg.jpg?raw=true') top left 150% no-repeat;
     background-size: contain;
     color: #ffffff;
     background-attachment: fixed;
